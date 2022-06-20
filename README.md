@@ -1,3 +1,3 @@
 # ΥΦΥ201-2022
 Για το μάθημα Υπολογιστική Κβαντική Μηχανική και Εφαρμογές
-[ΥΠΟΛΟΓΙΣΤΙΚΗ ΚΒΑΝΤΙΚΗ ΜΗΧΑΝΙΚΗ ΚΑΙ ΕΦΑΡΜΟΓΕΣ.pptx](https://github.com/LefterisDimitri/PHY-201-2022/files/8943951/default.pptx)
+[ΥΠΟΛΟΓΙΣΤΙΚΗ ΚΒΑΝΤΙΚΗ ΜΗΧΑΝΙΚΗ ΚΑΙ ΕΦΑΡΜΟΓΕΣ.pdf](https://github.com/LefterisDimitri/PHY-201-2022/files/8943954/default.pdf)
