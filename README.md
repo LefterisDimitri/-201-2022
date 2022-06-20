@@ -1,3 +1,3 @@
 # ΥΦΥ201-2022
 Για το μάθημα Υπολογιστική Κβαντική Μηχανική και Εφαρμογές
-[ΥΠΟΛΟΓΙΣΤΙΚΗ ΚΒΑΝΤΙΚΗ ΜΗΧΑΝΙΚΗ ΚΑΙ ΕΦΑΡΜΟΓΕΣ.pdf](https://github.com/LefterisDimitri/PHY-201-2022/files/8943954/default.pdf)
+![schrodinger_eq_sol_pdf](https://user-images.githubusercontent.com/101948242/174683974-6c2b1da0-5df9-4406-b76b-140d5d8307c7.png)
